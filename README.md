@@ -146,7 +146,11 @@ Modern UI automation project implementing:
 - Payment Validation
 - Screenshot Evidence
 
-🔗 [View Project](https://github.com/brauliogonzalezhdz/playwright-java-automation)
+<p>
+  <a href="https://github.com/brauliogonzalezhdz/playwright-java-automation">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 
