@@ -217,3 +217,21 @@ Automated Tests
       │
       ▼
  Test Results
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brauliogonzalezqualityengineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Open to Senior QA Engineer and QA Automation Engineer opportunities.</b>
+</p>
+
+<p align="center">
+  📍 Mexico 🇲🇽
+</p>
