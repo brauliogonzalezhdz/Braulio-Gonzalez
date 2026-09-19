@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior QA Engineer with 9+ years of experience in Software Quality Assurance**, with a strong background in manual testing and growing specialization in test automation.
+I'm a **Senior QA Engineer with 7+ years of experience in Software Quality Assurance**, with a strong background in manual testing and growing specialization in test automation.
 
 Throughout my career, I have worked across the complete testing lifecycle — from requirement analysis and test planning to execution, defect management, UAT and production validation.
 
@@ -35,7 +35,7 @@ Today, I'm combining that QA experience with automation using **Java, Python, Se
 - 🗄️ Database validation using **SQL**
 - 🔄 CI/CD experience with **Azure DevOps**
 - 🧩 Experience with **Agile / Scrum environments**
-- 🚀 Currently expanding my knowledge in **REST Assured, Cucumber BDD and advanced automation framework design**
+
 
 ---
 
@@ -113,7 +113,6 @@ Automation framework covering web application testing with:
 - Screenshots
 - Reusable Page Objects
 
-> 🚧 Repository coming soon
 
 ---
 
@@ -133,7 +132,7 @@ Modern UI automation project implementing:
 - Positive & Negative scenarios
 - Reusable automation components
 
-> 🚧 Repository coming soon
+
 
 ---
 
@@ -153,7 +152,7 @@ Automation framework implementing:
 - HTML Reports
 - JUnit Test Results
 
-> 🚧 Repository coming soon
+
 
 ---
 
@@ -174,7 +173,6 @@ API testing scenarios covering:
 - Dynamic Test Data
 - Database Validation
 
-> 🚧 Repository coming soon
 
 ---
 
