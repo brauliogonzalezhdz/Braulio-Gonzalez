@@ -97,21 +97,33 @@ Today, I'm combining that QA experience with automation using **Java, Python, Se
 
 # 🤖 Automation Projects
 
-## ☕ Selenium + Java
+## ☕ Selenium + Java Automation
 
-**Tech Stack**
+<p>
+  <img src="https://img.shields.io/badge/Java-Automation-orange?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-Testing-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+</p>
 
-`Java` `Selenium WebDriver` `TestNG` `Page Object Model`
+Web automation project built with **Java, Selenium WebDriver, Maven and TestNG**, following the **Page Object Model (POM)** design pattern.
 
-Automation framework covering web application testing with:
+The project demonstrates:
 
-- Page Object Model
-- Selenium WebDriver
-- Explicit Waits
-- TestNG Assertions
-- Positive & Negative Testing
-- Screenshots
-- Reusable Page Objects
+- ✈️ End-to-End flight booking automation
+- 🔍 Selenium locators and element interaction
+- ⏱️ Explicit waits with WebDriverWait
+- 🧪 TestNG assertions
+- 📋 Dropdown handling
+- ❌ Negative testing
+- 📸 Screenshot evidence
+- 🏗️ Page Object Model
+
+<p>
+  <a href="https://github.com/brauliogonzalezhdz/selenium-java-automation">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 ---
