@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/QA-9%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QA-7%2B%20Years-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Mexico-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/English-C1-orange?style=for-the-badge" />
 </p>
