@@ -142,7 +142,11 @@ Modern UI automation project implementing:
 - UI Assertions
 - End-to-End Testing
 - Positive & Negative scenarios
-- Reusable automation components
+- Shopping Cart & Checkout Automation
+- Payment Validation
+- Screenshot Evidence
+
+🔗 [View Project](https://github.com/brauliogonzalezhdz/playwright-java-automation)
 
 
 
