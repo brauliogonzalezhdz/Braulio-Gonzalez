@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <b>9+ Years in Software Quality Assurance | Manual Testing → Automation</b>
+  <b>7+ Years in Software Quality Assurance | Manual Testing → Automation</b>
 </p>
 
 <p align="center">
